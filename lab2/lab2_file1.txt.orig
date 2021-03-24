@@ -1,0 +1,9 @@
+This is Lab2 file.
+
+the file was created.
+update 1
+<<<<<<< HEAD
+update 2 (main branch)
+=======
+update 2 (init conflict on "bad-update" branch)
+>>>>>>> bad-update
